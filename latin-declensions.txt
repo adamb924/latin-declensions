@@ -1,0 +1,73 @@
+aqua	1st Declension	aqua, -ae, f. ‘water’	feminine nominative singular
+aquae	1st Declension	aqua, -ae, f. ‘water’	feminine {genitive, dative} singular, or feminine nominative plural
+aquam	1st Declension	aqua, -ae, f. ‘water’	feminine accusative singular
+aquā	1st Declension	aqua, -ae, f. ‘water’	feminine ablative singular
+aquārum	1st Declension	aqua, -ae, f. ‘water’	feminine genitive plural
+aquīs	1st Declension	aqua, -ae, f. ‘water’	feminine {dative, ablative} plural
+aquās	1st Declension	aqua, -ae, f. ‘water’	feminine accusative plural
+servus	2nd Declension	servus, -ī, m. ‘slave’	masculine nominative singular
+servī	2nd Declension	servus, -ī, m. ‘slave’	masculine genitive singular, or masculine nominative plural
+servō	2nd Declension	servus, -ī, m. ‘slave’	masculine {dative, ablative} singular
+servum	2nd Declension	servus, -ī, m. ‘slave’	masculine accusative singular
+servōrum	2nd Declension	servus, -ī, m. ‘slave’	masculine genitive plural
+servīs	2nd Declension	servus, -ī, m. ‘slave’	masculine {dative, ablative} plural
+servōs	2nd Declension	servus, -ī, m. ‘slave’	masculine accusative plural
+dōnum	2nd Declension	dōnum, -ī, n. ‘gift‘	neuter {nominative, accusative} singular
+dōnī	2nd Declension	dōnum, -ī, n. ‘gift‘	neuter genitive singular
+dōnō	2nd Declension	dōnum, -ī, n. ‘gift‘	neuter {dative, ablative} singular
+dōna	2nd Declension	dōnum, -ī, n. ‘gift‘	neuter {nominative, accusative} plural
+dōnōrum	2nd Declension	dōnum, -ī, n. ‘gift‘	neuter genitive plural
+dōnīs	2nd Declension	dōnum, -ī, n. ‘gift‘	neuter {dative, ablative} plural
+rēx	3rd Declension	rēx, rēgis, m. ‘king’	masculine nominative singular
+rēgis	3rd Declension	rēx, rēgis, m. ‘king’	masculine genitive singular
+rēgī	3rd Declension	rēx, rēgis, m. ‘king’	masculine dative singular
+rēgem	3rd Declension	rēx, rēgis, m. ‘king’	masculine accusative singular
+rēge	3rd Declension	rēx, rēgis, m. ‘king’	masculine ablative singular
+rēgēs	3rd Declension	rēx, rēgis, m. ‘king’	masculine {nominative, accusative} plural
+rēgum	3rd Declension	rēx, rēgis, m. ‘king’	masculine genitive plural
+rēgibus	3rd Declension	rēx, rēgis, m. ‘king’	masculine {dative, ablative} plural
+corpus	3rd Declension	corpus, corporis, n. ‘body’	neuter {nominative, accusative} singular
+corporis	3rd Declension	corpus, corporis, n. ‘body’	neuter genitive singular
+corporī	3rd Declension	corpus, corporis, n. ‘body’	neuter dative singular
+corpore	3rd Declension	corpus, corporis, n. ‘body’	neuter ablative singular
+corpora	3rd Declension	corpus, corporis, n. ‘body’	neuter {nominative, accusative} plural
+corporum	3rd Declension	corpus, corporis, n. ‘body’	neuter genitive plural
+corporibus	3rd Declension	corpus, corporis, n. ‘body’	neuter {dative, ablative} plural
+cīvis	3rd Declension, i-stem	cīvis, -is, m. ‘citizen’	masculine {nominative, genitive} singular
+cīvī	3rd Declension, i-stem	cīvis, -is, m. ‘citizen’	masculine dative singular
+cīvem	3rd Declension, i-stem	cīvis, -is, m. ‘citizen’	masculine accusative singular
+cīve	3rd Declension, i-stem	cīvis, -is, m. ‘citizen’	masculine ablative singular
+cīvēs	3rd Declension, i-stem	cīvis, -is, m. ‘citizen’	masculine {nominative, accusative} plural
+cīvium	3rd Declension, i-stem	cīvis, -is, m. ‘citizen’	masculine genitive plural
+cīvibus	3rd Declension, i-stem	cīvis, -is, m. ‘citizen’	masculine {dative, ablative} plural
+mare	3rd Declension, i-stem	mare, -is, n. ‘sea’	neuter {nominative, accusative} singular
+maris	3rd Declension, i-stem	mare, -is, n. ‘sea’	neuter genitive singular
+marī	3rd Declension, i-stem	mare, -is, n. ‘sea’	neuter dative singular
+marī 	3rd Declension, i-stem	mare, -is, n. ‘sea’	neuter ablative singular
+maria	3rd Declension, i-stem	mare, -is, n. ‘sea’	neuter {nominative, accusative} plural
+marium	3rd Declension, i-stem	mare, -is, n. ‘sea’	neuter genitive plural
+maribus	3rd Declension, i-stem	mare, -is, n. ‘sea’	neuter {dative, ablative} plural
+frūctus	4th Declension	frūctus, -ūs, m. ‘fruit’	masculine nominative singular
+frūctūs	4th Declension	frūctus, -ūs, m. ‘fruit’	masculine genitive singular, or masculine {nominative, accusative} plural
+frūctuī	4th Declension	frūctus, -ūs, m. ‘fruit’	masculine dative singular
+frūctum	4th Declension	frūctus, -ūs, m. ‘fruit’	masculine accusative singular
+frūctū	4th Declension	frūctus, -ūs, m. ‘fruit’	masculine ablative singular
+frūctuum	4th Declension	frūctus, -ūs, m. ‘fruit’	masculine genitive plural
+frūctibus	4th Declension	frūctus, -ūs, m. ‘fruit’	masculine {dative, ablative} plural
+cornū	4th Declension	cornū, -ūs, n. ‘horn’	neuter {nominative, dative, accusative, ablative} singular
+cornūs	4th Declension	cornū, -ūs, n. ‘horn’	neuter genitive singular
+cornua	4th Declension	cornū, -ūs, n. ‘horn’	neuter {nominative, accusative} plural
+cornuum	4th Declension	cornū, -ūs, n. ‘horn’	neuter genitive plural
+cornibus	4th Declension	cornū, -ūs, n. ‘horn’	neuter {dative, ablative} plural
+rēs	4th Declension	rēs, reī, f. ‘thing’	feminine nominative {singular, plural}, or feminine accusative plural
+reī	4th Declension	rēs, reī, f. ‘thing’	feminine {genitive, dative} singular
+rem	4th Declension	rēs, reī, f. ‘thing’	feminine accusative singular
+rē	4th Declension	rēs, reī, f. ‘thing’	feminine ablative singular
+rērum	4th Declension	rēs, reī, f. ‘thing’	feminine genitive plural
+rēbus	4th Declension	rēs, reī, f. ‘thing’	feminine {dative, ablative} plural
+diēs	4th Declension	diēs, diēī, m. ‘day’	masculine nominative {singular, plural}, or masculine accusative plural
+diēī	4th Declension	diēs, diēī, m. ‘day’	masculine {genitive, dative} singular
+diem	4th Declension	diēs, diēī, m. ‘day’	masculine accusative singular
+diē	4th Declension	diēs, diēī, m. ‘day’	masculine ablative singular
+diērum	4th Declension	diēs, diēī, m. ‘day’	masculine genitive plural
+diēbus	4th Declension	diēs, diēī, m. ‘day’	masculine {dative, ablative} plural
